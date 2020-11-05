@@ -1,14 +1,92 @@
 {
     "shop1": {
         "id": 1,
-        "name": "x"
+        "name": "Bánh Cuốn Bà Hoành",
+        "telephone":"+84989083570",
+        "address":"66 Tô Hiến Thành, Bùi Thị Xuân, Hoàn Kiếm, Hà Nội, Vietnam",
+        "local":"Hoàn Kiếm",
+        "imageURL":"https://images.app.goo.gl/YKaAd8AgLshPviGu7",
+        "GGMapUrl":"https://goo.gl/maps/NJnHfqrZXpY6bjzL7"
     },
     "shop2": {
         "id": 2,
-        "name": "y"
+        "name": "Cháo Sườn - Cháo Trai",
+        "telephone":"+842439721112",
+        "address":"26 Trần Xuân Soạn, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội, Vietnam",
+        "local":"Hai Bà Trưng",
+        "imageURL":"https://images.app.goo.gl/YKaAd8AgLshPviGu7",
+        "GGMapUrl":"https://goo.gl/maps/u4CLgEofpSCYmwJ88"
     },
     "shop3": {
         "id": 3,
-        "name": "d"
+        "name": "GoGi House Bùi Thị Xuân",
+        "telephone":"+842473007341",
+        "address":"151 Bùi Thị Xuân, Hai Bà Trưng, Hà Nội 100000, Vietnam",
+        "local":"Hai Bà Trưng",
+        "imageURL":"https://images.app.goo.gl/d34Lio4YRM76BsG97",
+        "GGMapUrl":"https://goo.gl/maps/GJ69cNKWwD84siGg8"
+    },
+    "shop4": {
+        "id": 4,
+        "name": "Hẻm Quán",
+        "telephone":"+842435591616",
+        "address":"360 P. Xã Đàn, Phương Liên, Đống Đa, Hà Nội, Vietnam",
+        "local":"Đống Đa",
+        "imageURL":"https://images.app.goo.gl/JsPC6bXv3eB9nr1Z6",
+        "GGMapUrl":"https://g.page/hemquan360?share"
+    },
+    "shop5": {
+        "id": 5,
+        "name": "Nhà hàng Ba Ba Sơn Đông",
+        "telephone":"+84904403656",
+        "address":"440 P. Xã Đàn, Nam Đồng, Đống Đa, Hà Nội, Vietnam",
+        "local":"Đống Đa",
+        "imageURL":"https://images.app.goo.gl/A2Q3fZw7UmdQCseS6",
+        "GGMapUrl":"https://goo.gl/maps/rCPXZTxBXQebfZXA7"
+    },
+    "shop6": {
+        "id": 6,
+        "name": "Nhà Hàng Ẩm Thực Sen Hồng",
+        "telephone":"+842435738858",
+        "address":"8 P. Xã Đàn, Phương Liên, Đống Đa, Hà Nội, Vietnam",
+        "local":"Đống Đa",
+        "imageURL":"https://images.app.goo.gl/TmoBQhkXwm4wxvKL9",
+        "GGMapUrl":"https://goo.gl/maps/XRjvWpnvV9uS4ixL9"
+    },
+    "shop7": {
+        "id": 7,
+        "name": "Nét Huế Restaurant",
+        "telephone":"+842473007341",
+        "address":"43 Mai Hắc Đế, Bùi Thị Xuân, Hai Bà Trưng, Hà Nội, Vietnam",
+        "local":"Hai Bà Trưng",
+        "imageURL":"https://images.app.goo.gl/w9hSxYDAGSpPfdjW8",
+        "GGMapUrl":"https://goo.gl/maps/MM3asniEi8fSoziR8"
+    },
+    "shop8": {
+        "id": 8,
+        "name": "Nhà hàng Gumiho",
+        "telephone":"+842473007341",
+        "address":"133 Bùi Thị Xuân, Hai Bà Trưng, Hà Nội, Vietnam",
+        "local":"Hai Bà Trưng",
+        "imageURL":"https://images.app.goo.gl/pUN6499KG2cdQTsL9",
+        "GGMapUrl":"https://goo.gl/maps/jDEL34Sj4vdsHZzr8"
+    },
+    "shop9": {
+        "id": 9,
+        "name": "Maison Sen",
+        "telephone":"+842473007341",
+        "address":"61 Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Vietnam",
+        "local":"Hoàn Kiếm",
+        "imageURL":"https://images.app.goo.gl/JQNfaycDnaqVv4oQ9",
+        "GGMapUrl":"https://g.page/maisonsens?share"
+    },
+    "shop10": {
+        "id": 10,
+        "name": "Bún bò O Xuân",
+        "telephone":"+842473007341",
+        "address":"5B Quang Trung, Tràng Tiền, Hoàn Kiếm, Hà Nội, Vietnam",
+        "local":"Hoàn Kiếm",
+        "imageURL":"https://images.app.goo.gl/DgnufpwJnfZ8PUt88",
+        "GGMapUrl":"https://goo.gl/maps/tizcCACxE4xRpZMF9"
     }
 }
