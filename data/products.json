@@ -1,0 +1,62 @@
+{
+    "1": {
+        "id": "1",
+        "taste": "orange",
+        "color": "red",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "2": {
+        "id": "2",
+        "taste": "orange",
+        "color": "orange",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "3": {
+        "id": "3",
+        "taste": "banana",
+        "color": "yellow",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "4": {
+        "id": "4",
+        "taste": "orange",
+        "color": "green",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "5": {
+        "id": "5",
+        "taste": "grey",
+        "color": "green",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "6": {
+        "id": "6",
+        "taste": "berry",
+        "color": "pink",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "7": {
+        "id": "7",
+        "taste": "orange",
+        "color": "pink",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "8": {
+        "id": "8",
+        "taste": "bubble",
+        "color": "blue",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "9": {
+        "id": "9",
+        "taste": "apple",
+        "color": "green",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    },
+    "10": {
+        "id": "10",
+        "taste": "banana",
+        "color": "yellow",
+        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+    }
+}
