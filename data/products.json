@@ -3,70 +3,127 @@
         "id": "1",
         "name":"kem1",
         "taste": "orange",
-        "color": "red",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "color": "other",
+        "sameType":[
+            {
+                "id": "3",
+                "name":"kem3",
+                "taste": "orange",
+                "color": "yellow",
+                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+            }
+        ],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+cam.jpg"
     },
     "2": {
         "id": "2",
         "name":"kem2",
-        "taste": "orange",
-        "color": "orange",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "chocolate",
+        "color": "brown",
+        "sameType":[
+            {
+                "id": "8",
+                "name":"kem8",
+                "taste": "chocolate",
+                "color": "brown",
+                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/n%C3%A2u+nh%C3%A2n+tr%C3%A0+xanh.jpg"
+            }
+        ],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/ice-cream1.jpg"
     },
     "3": {
         "id": "3",
         "name":"kem3",
-        "taste": "banana",
+        "taste": "orange",
         "color": "yellow",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "sameType":[{
+            "id": "1",
+            "name":"kem1",
+            "taste": "orange",
+            "color": "other",
+            "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+cam.jpg"
+        }],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
     },
     "4": {
         "id": "4",
         "name":"kem4",
-        "taste": "orange",
-        "color": "green",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "vani",
+        "color": "yellow",
+        "sameType":[
+            {
+                "id": "10",
+                "name":"kem10",
+                "taste": "vani",
+                "color": "white",
+                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+tuy%E1%BA%BFt.jpg"
+            }
+        ],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+ch%C3%A2n+tr%C3%A2u.jpg"
     },
     "5": {
         "id": "5",
         "name":"kem5",
-        "taste": "grey",
-        "color": "green",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "strawberry",
+        "color": "red",
+        "sameType":[],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+d%C3%A2u.jpg"
     },
     "6": {
         "id": "6",
         "name":"kem6",
-        "taste": "berry",
-        "color": "pink",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "mango",
+        "color": "yellow",
+        "sameType":[],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/xo%C3%A0i.jpg"
     },
     "7": {
         "id": "7",
         "name":"kem7",
-        "taste": "orange",
-        "color": "pink",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "banana",
+        "color": "yellow",
+        "sameType":[],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/v%E1%BB%8B+chu%E1%BB%91i.jpg"
     },
     "8": {
         "id": "8",
         "name":"kem8",
-        "taste": "bubble",
-        "color": "blue",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "chocolate",
+        "color": "brown",
+        "sameType":[
+            {
+                "id": "2",
+                "name":"kem2",
+                "taste": "chocolate",
+                "color": "brown",
+                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/ice-cream1.jpg"
+
+            }
+        ],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/n%C3%A2u+nh%C3%A2n+tr%C3%A0+xanh.jpg"
     },
     "9": {
         "id": "9",
         "name":"kem9",
-        "taste": "apple",
-        "color": "green",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "blueberry",
+        "color": "blue",
+        "sameType":[],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+xanh+n%C6%B0%E1%BB%9Bc+bi%E1%BB%83n.jpg"
     },
     "10": {
         "id": "10",
         "name":"kem10",
-        "taste": "banana",
-        "color": "yellow",
-        "image": "https://www.saveur.com/resizer/sq-17z6mrjFQ0T0mDm-_OBNaEWU=/760x950/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/6U5RCBTPHKMZNVG5L3FKKSCIOU.jpg"
+        "taste": "vani",
+        "color": "white",
+        "sameType":[
+            {
+                "id": "4",
+                "name":"kem4",
+                "taste": "vani",
+                "color": "yellow",
+                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+ch%C3%A2n+tr%C3%A2u.jpg"
+            }
+        ],
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+tuy%E1%BA%BFt.jpg"
     }
 }
