@@ -35,7 +35,7 @@ def send():
     print(content['email'])
     msg = Message("Feedback", sender=content['email'],recipients = ['thanhcong.phung@gmail.com']) 
     msg.body = content['message']
-    mail.send(msg) 
-    return jsonify(content)
+    mail.send(msg)
+    return jsonify(status='success')
 if __name__ == "__main__":
     app.run(debug=True)
