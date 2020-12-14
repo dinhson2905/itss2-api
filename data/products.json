@@ -1,225 +1,274 @@
 {
-    "1": {
-        "id": "1",
-        "name":"kem1",
-        "taste": "orange",
-        "color": "other",
-        "sameType":[
-            {
-                "id": "3",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/kem+cam%2Bpen.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg"
-    },
-    "2": {
-        "id": "2",
-        "name":"kem2",
-        "taste": "chocolate",
-        "color": "brown",
-        "sameType":[
-            {
-                "id": "8",
-                "name":"kem8",
-                "taste": "chocolate",
-                "color": "brown",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/n%C3%A2u+nh%C3%A2n+tr%C3%A0+xanh.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/socola%2Bpen1.jpg"
-    },
-    "3": {
+  "1": {
+    "id": "1",
+    "name": "kem1",
+    "taste": "orange",
+    "color": "other",
+    "sameType": [
+      {
         "id": "3",
-        "name":"kem3",
+        "name": "kem3",
         "taste": "orange",
         "color": "yellow",
-        "sameType":[{
-            "id": "1",
-            "name":"kem1",
-            "taste": "orange",
-            "color": "other",
-            "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg"
-        }],
         "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/kem+cam%2Bpen.jpg"
-    },
-    "4": {
-        "id": "4",
-        "name":"kem4",
-        "taste": "vani",
-        "color": "yellow",
-        "sameType":[
-            {
-                "id": "10",
-                "name":"kem10",
-                "taste": "vani",
-                "color": "white",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/vani%2Bpen1.jpg"
-    },
-    "5": {
-        "id": "5",
-        "name":"kem5",
-        "taste": "strawberry",
-        "color": "red",
-        "sameType":[],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/do%2Bpen.jpg"
-    },
-    "6": {
-        "id": "6",
-        "name":"kem6",
-        "taste": "mango",
-        "color": "yellow",
-        "sameType":[],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/xo%C3%A0i.jpg"
-    },
-    "7": {
-        "id": "7",
-        "name":"kem7",
-        "taste": "banana",
-        "color": "yellow",
-        "sameType":[],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/banana%2Bpen.jpg"
-    },
-    "8": {
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+    ]
+  },
+  "2": {
+    "id": "2",
+    "name": "kem2",
+    "taste": "chocolate",
+    "color": "brown",
+    "sameType": [
+      {
         "id": "8",
-        "name":"kem8",
+        "name": "kem8",
         "taste": "chocolate",
         "color": "brown",
-        "sameType":[
-            {
-                "id": "2",
-                "name":"kem2",
-                "taste": "chocolate",
-                "color": "brown",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/socola%2Bpen1.jpg"
-
-            }
-        ],
         "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/n%C3%A2u+nh%C3%A2n+tr%C3%A0+xanh.jpg"
-    },
-    "9": {
-        "id": "9",
-        "name":"kem9",
-        "taste": "blueberry",
-        "color": "blue",
-        "sameType":[],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/xanh%2Bpen1.jpg"
-    },
-    "10": {
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/socola%2Bpen1.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/n%C3%A2u+nh%C3%A2n+tr%C3%A0+xanh.jpg"
+    ]
+  },
+  "3": {
+    "id": "3",
+    "name": "kem3",
+    "taste": "orange",
+    "color": "yellow",
+    "sameType": [
+      {
+        "id": "1",
+        "name": "kem1",
+        "taste": "orange",
+        "color": "other",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/kem+cam%2Bpen.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+cam.jpg"
+    ]
+  },
+  "4": {
+    "id": "4",
+    "name": "kem4",
+    "taste": "vani",
+    "color": "yellow",
+    "sameType": [
+      {
         "id": "10",
-        "name":"kem10",
+        "name": "kem10",
         "taste": "vani",
         "color": "white",
-        "sameType":[
-            {
-                "id": "4",
-                "name":"kem4",
-                "taste": "vani",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/vani%2Bpen1.jpg"
-            }
-        ],
         "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
-    },
-    "11": {
-        "id": "11",
-        "name":"kem1",
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/vani%2Bpen1.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/kem+ch%C3%A2n+tr%C3%A2u.jpg"
+    ]
+  },
+  "5": {
+    "id": "5",
+    "name": "kem5",
+    "taste": "strawberry",
+    "color": "red",
+    "sameType": [],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/do%2Bpen.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/do%2Bpen.jpg"
+    ]
+  },
+  "6": {
+    "id": "6",
+    "name": "kem6",
+    "taste": "mango",
+    "color": "yellow",
+    "sameType": [],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/xo%C3%A0i.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/xo%C3%A0i.jpg"
+    ]
+  },
+  "7": {
+    "id": "7",
+    "name": "kem7",
+    "taste": "banana",
+    "color": "yellow",
+    "sameType": [],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/banana%2Bpen.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/v%E1%BB%8B+chu%E1%BB%91i.jpg"
+    ]
+  },
+  "8": {
+    "id": "8",
+    "name": "kem8",
+    "taste": "chocolate",
+    "color": "brown",
+    "sameType": [
+      {
+        "id": "2",
+        "name": "kem2",
         "taste": "chocolate",
         "color": "brown",
-        "sameType":[
-            {
-                "id": "2",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/socola%2Bpen.jpg"
-    },
-    "12": {
-        "id": "12",
-        "name":"kem12",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/socola%2Bpen1.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "9": {
+    "id": "9",
+    "name": "kem9",
+    "taste": "blueberry",
+    "color": "blue",
+    "sameType": [],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "10": {
+    "id": "10",
+    "name": "kem10",
+    "taste": "vani",
+    "color": "white",
+    "sameType": [
+      {
+        "id": "4",
+        "name": "kem4",
         "taste": "vani",
-        "color": "white",
-        "sameType":[
-            {
-                "id": "3",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/vani%2Bpen.jpg"
-    },
-    "13": {
-        "id": "13",
-        "name":"kem13",
-        "taste": "straberry",
-        "color": "red",
-        "sameType":[
-            {
-                "id": "3",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/do%2Bpen1.jpg"
-    },
-    "14": {
-        "id": "14",
-        "name":"kem14",
-        "taste": "orange",
-        "color": "other",
-        "sameType":[
-            {
-                "id": "3",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/blue%2Bpen.jpg"
-    },
-    "15": {
-        "id": "15",
-        "name":"kem15",
-        "taste": "banana",
         "color": "yellow",
-        "sameType":[
-            {
-                "id": "3",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/banana%2Bpen1.jpg"
-    },
-    "16": {
-        "id": "16",
-        "name":"kem16",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/vani%2Bpen1.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "11": {
+    "id": "11",
+    "name": "kem1",
+    "taste": "chocolate",
+    "color": "brown",
+    "sameType": [
+      {
+        "id": "2",
+        "name": "kem3",
         "taste": "orange",
-        "color": "other",
-        "sameType":[
-            {
-                "id": "3",
-                "name":"kem3",
-                "taste": "orange",
-                "color": "yellow",
-                "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
-            }
-        ],
-        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/7sac%2Bpen1.jpg"
-    }
+        "color": "yellow",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "12": {
+    "id": "12",
+    "name": "kem12",
+    "taste": "vani",
+    "color": "white",
+    "sameType": [
+      {
+        "id": "3",
+        "name": "kem3",
+        "taste": "orange",
+        "color": "yellow",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "13": {
+    "id": "13",
+    "name": "kem13",
+    "taste": "straberry",
+    "color": "red",
+    "sameType": [
+      {
+        "id": "3",
+        "name": "kem3",
+        "taste": "orange",
+        "color": "yellow",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "14": {
+    "id": "14",
+    "name": "kem14",
+    "taste": "orange",
+    "color": "other",
+    "sameType": [
+      {
+        "id": "3",
+        "name": "kem3",
+        "taste": "orange",
+        "color": "yellow",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "15": {
+    "id": "15",
+    "name": "kem15",
+    "taste": "banana",
+    "color": "yellow",
+    "sameType": [
+      {
+        "id": "3",
+        "name": "kem3",
+        "taste": "orange",
+        "color": "yellow",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  },
+  "16": {
+    "id": "16",
+    "name": "kem16",
+    "taste": "orange",
+    "color": "other",
+    "sameType": [
+      {
+        "id": "3",
+        "name": "kem3",
+        "taste": "orange",
+        "color": "yellow",
+        "image": "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/7+s%E1%BA%AFc+cut.jpg"
+      }
+    ],
+    "image": [
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
+      "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/butter%2Bpen.jpg"
+    ]
+  }
 }
