@@ -4,6 +4,7 @@
     "name": "kem1",
     "taste": "orange",
     "color": "other",
+    "price": 19,
     "sameType": [
       {
         "id": "3",
@@ -23,6 +24,7 @@
     "name": "kem2",
     "taste": "chocolate",
     "color": "brown",
+    "price": 190,
     "sameType": [
       {
         "id": "8",
@@ -42,6 +44,7 @@
     "name": "kem3",
     "taste": "orange",
     "color": "yellow",
+    "price": 300,
     "sameType": [
       {
         "id": "1",
@@ -61,6 +64,7 @@
     "name": "kem4",
     "taste": "vani",
     "color": "yellow",
+    "price": 140,
     "sameType": [
       {
         "id": "10",
@@ -80,6 +84,7 @@
     "name": "kem5",
     "taste": "strawberry",
     "color": "red",
+    "price": 50,
     "sameType": [],
     "image": [
       "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/do%2Bpen.jpg",
@@ -91,6 +96,7 @@
     "name": "kem6",
     "taste": "mango",
     "color": "yellow",
+    "price": 42,
     "sameType": [],
     "image": [
       "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icreams/xo%C3%A0i.jpg",
@@ -102,6 +108,7 @@
     "name": "kem7",
     "taste": "banana",
     "color": "yellow",
+    "price": 36,
     "sameType": [],
     "image": [
       "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/banana%2Bpen.jpg",
@@ -113,6 +120,7 @@
     "name": "kem8",
     "taste": "chocolate",
     "color": "brown",
+    "price": 160,
     "sameType": [
       {
         "id": "2",
@@ -132,6 +140,7 @@
     "name": "kem9",
     "taste": "blueberry",
     "color": "blue",
+    "price": 180,
     "sameType": [],
     "image": [
       "https://sonnd-bucket.s3.us-east-2.amazonaws.com/itss2-images/icream-pen/125432443_721035438523948_8068864335084460211_n.jpg",
@@ -143,6 +152,7 @@
     "name": "kem10",
     "taste": "vani",
     "color": "white",
+    "price": 240,
     "sameType": [
       {
         "id": "4",
@@ -162,6 +172,7 @@
     "name": "kem1",
     "taste": "chocolate",
     "color": "brown",
+    "price": 205,
     "sameType": [
       {
         "id": "2",
@@ -181,6 +192,7 @@
     "name": "kem12",
     "taste": "vani",
     "color": "white",
+    "price": 170,
     "sameType": [
       {
         "id": "3",
@@ -200,6 +212,7 @@
     "name": "kem13",
     "taste": "straberry",
     "color": "red",
+    "price": 40,
     "sameType": [
       {
         "id": "3",
@@ -219,6 +232,7 @@
     "name": "kem14",
     "taste": "orange",
     "color": "other",
+    "price": 130,
     "sameType": [
       {
         "id": "3",
@@ -238,6 +252,7 @@
     "name": "kem15",
     "taste": "banana",
     "color": "yellow",
+    "price": 150,
     "sameType": [
       {
         "id": "3",
@@ -257,6 +272,7 @@
     "name": "kem16",
     "taste": "orange",
     "color": "other",
+    "price": 150,
     "sameType": [
       {
         "id": "3",
